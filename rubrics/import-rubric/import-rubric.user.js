@@ -2,8 +2,8 @@
 // @name        Rubric Importer
 // @namespace   https://github.com/jamesjonesmath/canvancement
 // @description Create a rubric by copying from a spreadsheet and pasting into Canvas
-// @include     https://cilearn.csuci.edu/courses/*/rubrics
-// @include     https://cilearn.csuci.edu/accounts/*/rubrics
+// @include     https://dlsl.instructure.com/courses/*/rubrics
+// @include     https://dlsl.instructure.com/accounts/*/rubrics
 // @version     5
 // @grant       none
 // ==/UserScript==
